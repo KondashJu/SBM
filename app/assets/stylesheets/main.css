@@ -1,7 +1,7 @@
 .navbar{
  background:#1C1C1C;
 }
-.nav-link , .navbar-brand , .dropdown , .dropdown-toggle{
+.nav-link , .navbar-brand {
 	margin-left: 1em !important;
 	font-family: "Arial";
 	font-size: 18px;
@@ -11,7 +11,7 @@
 
 .nav-link:hover{
 	font-family: "Arial";
- color: #81BEF7;
+ color: #A4A4A4;
 }
 .navbar-collapse{
  justify-content: flex-end;
@@ -27,3 +27,58 @@
     max-height: 100%;
 }
 
+.overlay{
+ position: absolute;
+ min-height: 100%;
+ min-width: 100%;
+ left: 0;
+ top: 0;
+ background: rgba(244, 244, 244, 0.6);
+}
+
+.h23 , .carousel-caption{
+	position: absolute;
+    top: 18%;
+    margin: auto;
+   
+    color:#000000 ;
+    font-size: 48px;
+    font-weight: 900
+}
+
+.h24 {
+	position: absolute;
+    top: 28%;
+    margin: auto;
+    text-align: justify;
+    color:#000000 ;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.button{
+	position: absolute;
+    top: 54%;
+  margin: auto;
+}
+ .button button {
+ 	
+    background-color: #1C1C1C; 
+    border: none;
+    color: white;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+
+}
+
+ .button button:hover {
+ 	
+   border:1px  solid #000000;
+   background-color: #A4A4A4; 
+   color:#000000;
+   
+
+}
