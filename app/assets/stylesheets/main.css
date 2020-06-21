@@ -1,0 +1,29 @@
+.navbar{
+ background:#1C1C1C;
+}
+.nav-link , .navbar-brand , .dropdown , .dropdown-toggle{
+	margin-left: 1em !important;
+	font-family: "Arial";
+	font-size: 18px;
+ color: #f4f4f4;
+ cursor: pointer;
+}
+
+.nav-link:hover{
+	font-family: "Arial";
+ color: #81BEF7;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+
+.carousel {
+	width:100%;
+    max-width:100%;
+    height: 100%;
+    max-height: 100%;
+}
+
