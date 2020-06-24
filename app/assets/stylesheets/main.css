@@ -43,7 +43,7 @@
    
     color:#000000 ;
     font-size: 48px;
-    font-weight: 900
+    font-weight: 900;
 }
 
 .h24 {
@@ -81,4 +81,109 @@
    color:#000000;
    
 
+}
+
+.benefits{
+ margin: 4em 0;
+    position: relative; 
+}
+.benefits h1{
+ margin: 2em; 
+ color:#000000 ;
+    font-size: 36px;
+    font-weight: 900;
+}
+.benefits img{
+  
+  width: 100%;
+  height: 90%;
+  margin: 1em;
+}
+
+.h25 {
+	position: absolute;
+    top: 60%;
+    left: 28%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 24px;
+    font-weight: 900;
+    
+}
+
+.h26 {
+	position: absolute;
+    top: 60%;
+    left: 38%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 24px;
+    font-weight: 900;
+    
+}
+
+.h27 {
+	position: absolute;
+    top: 60%;
+    left: 33%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 24px;
+    font-weight: 900;
+    
+}
+
+.h28 {
+	position: absolute;
+    top: 74%;
+    left: 22%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 18px;
+      
+    
+}
+
+.h29 {
+	position: absolute;
+    top: 74%;
+    left: 21%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 18px;
+      text-align: justify;
+    
+}
+
+.h30 {
+	position: absolute;
+    top: 82%;
+    left: 26%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 18px;
+      
+    
+}
+
+.h31 {
+	position: absolute;
+    top: 82%;
+    left: 33%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 18px;
+      
+    
+}
+
+.h32 {
+	position: absolute;
+    top: 82%;
+    left: 22%;
+    margin: auto;
+    color:#000000 ;
+    font-size: 18px;
+      
+    
 }
