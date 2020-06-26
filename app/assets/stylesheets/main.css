@@ -377,3 +377,36 @@ margin: 1em;
  font-size: 16px;
 }
 
+
+.contact{
+ margin: 4em 0;
+    position: relative; 
+}
+.contact h1{
+ margin: 2em; 
+ color:#000000 ;
+    font-size: 36px;
+    font-weight: 900;
+}
+.h77 {
+	 margin: 1em; 
+	 padding-left: 7em;
+	color:#000000 ;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.contact h4{
+	margin: 1em; 
+	
+	color:#000000 ;
+    font-size: 18px;
+    font-weight: 900;
+}
+.contact h5{
+	margin: 1em; 
+	
+	color:#000000 ;
+    font-size: 18px;
+    
+}
