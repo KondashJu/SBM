@@ -1,5 +1,6 @@
 {
   "name": "sbm",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "stack": "heroku-16"
 }
